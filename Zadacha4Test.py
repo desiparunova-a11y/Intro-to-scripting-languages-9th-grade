@@ -11,4 +11,4 @@ while(n<5):
 for i in range (n):
     print(i, i+1)
     dvoikiC+=1
-    
+print("The amount of dvoiki is: ", dvoikiC)
