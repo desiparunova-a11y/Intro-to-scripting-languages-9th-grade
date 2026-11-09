@@ -7,3 +7,6 @@ while(n<5):
         if(number%divider==0):
             isPrime=False
         divider+=1
+for i in range (n):
+    print(i, i+1)
+    
