@@ -12,3 +12,4 @@ for i in range (n):
     print(i, i+1)
     dvoikiC+=1
 print("The amount of dvoiki is: ", dvoikiC)
+print("The biggest dvoika is: ")
